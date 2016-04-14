@@ -16,5 +16,13 @@ namespace tuan1
         {
             InitializeComponent();
         }
+
+        private void PlayGame1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Game1 game = new Game1();
+            game.ShowDialog();
+            this.Show();
+        }
     }
 }

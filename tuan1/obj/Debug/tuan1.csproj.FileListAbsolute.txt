@@ -1,1 +1,10 @@
 C:\Users\HACKER96\Desktop\git\tuan1\tuan1\bin\Debug\tuan1.exe.config
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\bin\Debug\tuan1.exe
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\bin\Debug\tuan1.pdb
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.csprojResolveAssemblyReference.cache
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.Form1.resources
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.Properties.Resources.resources
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.csproj.GenerateResource.Cache
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.exe
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.pdb
+C:\Users\HACKER96\Desktop\git\tuan1\tuan1\obj\Debug\tuan1.Game1.resources
